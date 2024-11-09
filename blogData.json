@@ -41,5 +41,49 @@
     "category": "Ufology",
     "subject": "Famous Cases",
     "author": "Bruno Garcia"
+  },
+
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/Mpz49tj/sheet.jpg",
+    "title": "Dorian Mode",
+    "truncate": "Here comes a brief description of the blog item.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "category": "Music",
+    "subject": "Modes",
+    "author": "Bruno Garcia"
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/WpBF7sV/cessna.jpg",
+    "title": "Rudder Pedal",
+    "truncate": "Here comes a brief description of the blog item.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "category": "Aviation",
+    "subject": "Flight Theory",
+    "author": "Bruno Garcia"
+  },
+
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/VxLrfmb/web.jpg",
+    "title": "Next Js",
+    "truncate": "Here comes a brief description of the blog item.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "category": "Web Development",
+    "subject": "Next js",
+    "author": "Bruno Garcia"
+  },
+
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/fSpYmk9/alien.jpg",
+    "title": "Crop Circles",
+    "truncate": "Here comes a brief description of the blog item.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "category": "Ufology",
+    "subject": "Cases and Theories",
+    "author": "Bruno Garcia"
   }
 ]
